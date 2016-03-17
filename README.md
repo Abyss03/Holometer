@@ -6,30 +6,37 @@ Holometer is a holographic display styled Rainmeter Skin created in its entirety
 Currently the Skin Includes:
 
 Clock
+
 	- Time
 
 	- Day
 
 	- Date
 Network
+
 	- IP Address
 
 	- Upload Speed with graph
 
 	- Doanload Speed with graph
 Disk
+
 	- 4 Disk Support
 
 	- Free space or Used space Variants
 
 	- Recycle Bin item count with ability to open recycle bin
+
 CPU and RAM
+
 	- CPU Average Usage with graph
 
 	- Quad Core Individual Core usage with graphs
 
 	- RAM Usage with total RAM and usage bar
+
 GPU
+
 	- GPU Temperature with graph
 
 	- GPU Usage with graph
@@ -43,6 +50,7 @@ GPU
 Planned Features:
 
 CPU and RAM
+
 	- CPU Temperatures
 
 	- Dual core support
@@ -52,6 +60,7 @@ CPU and RAM
 	- Octa core support
 	
 Calender
+
 	- Calender with notes tab
 
 	- Google Calender Support
