@@ -34,6 +34,8 @@ CPU and RAM
 	- Quad Core Individual Core usage with graphs
 
 	- RAM Usage with total RAM and usage bar
+	
+	- Average CPU Temerature
 
 GPU
 
@@ -65,4 +67,4 @@ Calender
 
 	- Google Calender Support
 
-If you think any other features could be implemented dont hesitate to email me @ ben.david.ebdon@gmail.com with the Subject of 'Holometer Suggestion'
+If you think any other features could be implemented dont hesitate to email me @ ben.david.ebdon@gmail.com with the Subject of 'Holometer Suggestion' or Discord Message me @ Abyss03#5588
