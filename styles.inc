@@ -8,6 +8,7 @@ Name = Calender
 
 [Variables]
 fontName = Orbitron Medium
+fontColour = 102,204,255, 200
 
 ;---------------------------------------------------
 ;------------------- Styles Below ------------------
@@ -19,7 +20,7 @@ StringCase = Upper
 StringStyle = Bolditalic
 StringEffect = Shadow
 FontEffectColor = 0,0,0,50
-FontColor = #colorText#
+FontColor = #fontColour#
 FontFace = #fontName#
 FontSize = 20
 AntiAlias = 1
@@ -31,7 +32,7 @@ StringCase = Upper
 StringStyle = Bolditalic
 StringEffect = Shadow
 FontEffectColor = 0,0,0,50
-FontColor = #colorText#
+FontColor = #fontColour#
 FontFace = #fontName#
 FontSize = 13
 AntiAlias = 1
@@ -43,8 +44,8 @@ StringCase = Upper
 StringStyle = Bolditalic
 StringEffect = Shadow
 FontEffectColor = 0,0,0,50
-BarColor = #colorText#
-FontColor = #colorText#
+BarColor = #fontColour#
+FontColor = #fontColour#
 FontFace = #fontName#
 FontSize = 13
 AntiAlias = 1
