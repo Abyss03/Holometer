@@ -9,6 +9,7 @@ Name = Calender
 [Variables]
 fontName = Orbitron Medium
 fontColour = 102,204,255, 200
+lineColour = 102,204,255, 200
 
 ;---------------------------------------------------
 ;------------------- Styles Below ------------------
@@ -44,7 +45,8 @@ StringCase = Upper
 StringStyle = Bolditalic
 StringEffect = Shadow
 FontEffectColor = 0,0,0,50
-BarColor = #fontColour#
+BarColor = #lineColour#
+LineColor = #lineColour#
 FontColor = #fontColour#
 FontFace = #fontName#
 FontSize = 13
