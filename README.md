@@ -67,4 +67,4 @@ Calender
 
 	- Google Calender Support
 
-If you think any other features could be implemented dont hesitate to email me @ ben.david.ebdon@gmail.com with the Subject of 'Holometer Suggestion' or Discord Message me @ Abyss03#5588
+If you think any other features could be implemented dont hesitate to Discord Message me @ Abyss03#5588
